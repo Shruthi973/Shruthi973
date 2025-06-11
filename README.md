@@ -15,27 +15,27 @@
 
 ---
 
-### 💼 Data Scientist | ML Researcher | Health Data Analyst
+### 💼 Data Scientist | ML Researcher | Analytics Enthusiast
 
-I'm Shruthi — a passionate data scientist with a master's in Health Data Science from SLU and 4+ years of experience in machine learning, data visualization, and real-world healthcare analytics.
+I'm Shruthi — a data scientist with 4+ years of experience in machine learning, health data analytics, and dashboard development. I build real-world solutions with impact, combining strong domain knowledge and technical skills.
 
-- 🔬 Conducting IRB-approved ML research on Parkinson’s Disease phenotypes  
-- 📊 Built interactive dashboards and predictive models for healthcare and public safety  
-- 🧠 Skilled in Python, R, SQL, Power BI, TensorFlow, Scikit-learn, Snowflake  
-- 💼 Open to Fall/Winter 2025 roles in Data Science, ML, and Analytics  
+- 🔬 IRB-approved Parkinson’s Disease ML research  
+- 📊 Visual dashboards, clustering, and predictive modeling  
+- ⚙️ Python, R, SQL, Power BI, Scikit-learn, Snowflake  
+- 🔎 Open to Fall/Winter 2025 internships in Data Science and Analytics  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Parkinson’s Phenotype Modeling](https://github.com/Shruthi973/Parkinsons-phenotype-modeling) | ML classification and regression for symptom analysis | R, Naive Bayes, Linear Regression |
-| [Accidental Drug-Related Deaths](https://github.com/Shruthi973/ACCIDENTAL_DRUG_RELATEDDEALTHS) | Clustering and trend detection in overdose data | Python, Seaborn, K-Means |
-| [Influence of Technology](https://github.com/Shruthi973/INFLUENCE-OF-TECHNOLOGY) | Text analysis and public perception of tech | Python, NLP, WordCloud |
-| [Why Students Drop Off](https://github.com/Shruthi973/WHY-STUDENTS-DROP-OFF-) | Predicting student attrition with ML models | Python, XGBoost |
-| [Ride Cancellations](https://github.com/Shruthi973/RIDE-CANCELLATIONS) | Predictive modeling for cab ride cancellations | Python, Pandas, Scikit-learn |
-| [Interactive Dashboards](https://github.com/Shruthi973/DASHBOARDS) | Live dashboards for claims, skills, and regions | Power BI, SQL |
+| [Parkinson’s Phenotype Modeling](https://github.com/Shruthi973/Parkinsons-phenotype-modeling) | ML classification & regression for PD symptom severity | R, Naive Bayes, Linear Regression |
+| [Accidental Drug-Related Deaths](https://github.com/Shruthi973/ACCIDENTAL_DRUG_RELATEDDEALTHS) | Overdose data clustering & trend analysis | Python, Pandas, K-Means |
+| [Influence of Technology](https://github.com/Shruthi973/INFLUENCE-OF-TECHNOLOGY) | Survey-based public opinion on tech | Python, NLP, WordCloud |
+| [Why Students Drop Off](https://github.com/Shruthi973/WHY-STUDENTS-DROP-OFF-) | Predicting student attrition risk | Python, XGBoost, Logistic Regression |
+| [Ride Cancellations](https://github.com/Shruthi973/RIDE-CANCELLATIONS) | Predicting cab cancellations | Python, Pandas, Matplotlib |
+| [Interactive Dashboards](https://github.com/Shruthi973/DASHBOARDS) | Power BI dashboards for claims, skills, and maps | Power BI, SQL |
 
 ---
 
@@ -47,12 +47,13 @@ I'm Shruthi — a passionate data scientist with a master's in Health Data Scien
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-- ✉️ Email: vudemshruthireddy@gmail.com  
+- 📧 vudemshruthireddy@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/shruthireddyvudem/)  
 - 🌐 [Portfolio Website](https://v0-open-vercel-app.vercel.app/)
 
 ---
 
-> “I use data not just to analyze, but to understand, predict, and improve lives.”
+> “Data is powerful when it tells a story — I use it to drive decisions and impact.”
+
