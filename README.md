@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.jpg" width="180" style="border-radius: 50%;">
+  <img src="profile.jpg" width="180" />
 </p>
 
 <h2 align="center">Shruthi Reddy Vudem</h2>
