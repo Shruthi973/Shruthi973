@@ -29,15 +29,20 @@ I'm Shruthi — a data scientist with 4+ years of experience in machine learning
 
 ## 🚀 Projects
 
-| Project                           | Description                                                                 | Tools                                  |
-|----------------------------------|-----------------------------------------------------------------------------|----------------------------------------|
-| **fNIRS-Based Brain Remodeling** | Modeling brain activity differences in Parkinson’s phenotypes using HbO₂ signals | Python, MNE-NIRS, GLM, REDCap          |
-| **Parkinson’s Phenotype Modeling** | ML classification & regression for PD symptom severity                    | R, Naive Bayes, Linear Regression       |
-| **Accidental Drug-Related Deaths** | Overdose data clustering & trend analysis                                  | Python, Pandas, K-Means                 |
-| **Influence of Technology**       | Survey-based public opinion on tech                                        | Python, NLP, WordCloud                  |
-| **Why Students Drop Off**         | Predicting student attrition risk                                          | Python, XGBoost, Logistic Regression    |
-| **Ride Cancellations**            | Predicting cab cancellations                                               | Python, Pandas, Matplotlib              |
-| **Interactive Dashboards**        | Power BI dashboards for claims, skills, and maps                           | Power BI, SQL                           |
+---
+
+## 🚀 Projects
+
+| Project | Description | Tools |
+|--------|-------------|--------|
+| [🧠 NeuroScreen – Parkinson’s Risk Estimation App](https://github.com/Shruthi973/NeuroScreen-App) | AI-powered, self-administered screening tool that predicts motor phenotype (TD vs PIGD) using behavioral inputs; includes SHAP explainability, Streamlit UI, and HIPAA-conscious architecture | Python, Streamlit, Random Forest, SHAP, cloudpickle |
+| [🧠 fNIRS-Based Brain Remodeling](https://github.com/Shruthi973/fNIRS-Modeling) | Modeling brain activity differences in Parkinson’s phenotypes using HbO₂ signals | Python, MNE-NIRS, GLM, REDCap |
+| [🧪 Parkinson’s Phenotype Modeling](https://github.com/Shruthi973/Parkinsons-Phenotype-Modeling) | ML classification & regression for PD symptom severity | R, Naive Bayes, Linear Regression |
+| [💊 Accidental Drug-Related Deaths](https://github.com/Shruthi973/Drug-Overdose-KMeans) | Overdose data clustering & trend analysis | Python, Pandas, K-Means |
+| [💬 Influence of Technology](https://github.com/Shruthi973/Influence-of-Technology-on-Behavior) | Survey-based public opinion on technology’s impact | Python, NLP, WordCloud |
+| [📉 Why Students Drop Off](https://github.com/Shruthi973/Drop-Off-Prediction) | Predicting student attrition risk from survey data | Python, XGBoost, Logistic Regression |
+| [🚕 Ride Cancellations](https://github.com/Shruthi973/Ride-Cancellation-Model) | Predicting ride cancellations using operational data | Python, Pandas, Matplotlib |
+| [📊 Interactive Dashboards](https://github.com/Shruthi973/Excelerate-Dashboard) | Power BI dashboards for claims, skills, and map insights | Power BI, SQL |
 
 ---
 
