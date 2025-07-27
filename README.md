@@ -15,19 +15,15 @@
 
 ---
 
-# Shruthi Reddy Vudem
+# 💼 Shruthi Reddy Vudem
 
 💼 **Data Scientist | ML Researcher | Analytics Enthusiast**  
 I'm Shruthi — a data scientist with 4+ years of experience in machine learning, health data analytics, and dashboard development. I build real-world solutions with impact, combining strong domain knowledge and technical skills.
 
 🔬 **IRB-approved Parkinson’s Disease ML research**  
 📊 Visual dashboards, clustering, and predictive modeling  
-⚙️ Python, R, SQL, Power BI, Scikit-learn, Snowflake  
+⚙️ Python, R, SQL, Power BI, Scikit-learn, Streamlit, MNE-NIRS  
 🔎 Open to Fall/Winter 2025 internships in Data Science and Analytics
-
----
-
-## 🚀 Projects
 
 ---
 
@@ -46,14 +42,19 @@ I'm Shruthi — a data scientist with 4+ years of experience in machine learning
 
 ---
 
-## 📈 GitHub Stats  
-(You can embed a GitHub stats card here if you'd like. Let me know and I’ll generate one.)
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shruthi973&show_icons=true&theme=default&hide_border=true" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruthi973&layout=compact&theme=default&hide_border=true" width="340"/>
+</p>
 
 ---
 
-## 📫 Contact Me  
-📧 vudemshruthireddy@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/shruthi-reddy-vudem1410)  
-🌐 [Portfolio Website](https://yourwebsite.com)  
+## 📫 Contact Me
+
+📧 **Email**: vudemshruthireddy@gmail.com  
+🔗 **LinkedIn**: [shruthireddyvudem](https://www.linkedin.com/in/shruthireddyvudem/)  
+🌐 **Portfolio**: [v0-open-vercel-app.vercel.app](https://v0-open-vercel-app.vercel.app/)
 
 > “Data is powerful when it tells a story — I use it to drive decisions and impact.”
