@@ -45,7 +45,7 @@ I'm Shruthi — a data scientist with 4+ years of experience in machine learning
 | [🧪 Parkinson’s Phenotype Modeling](https://github.com/Shruthi973/Parkinsons-Phenotype-Modeling) | ML classification & regression for PD symptom severity | R, Naive Bayes, Linear Regression |
 | [💊 Accidental Drug-Related Deaths](https://github.com/Shruthi973/ACCIDENTAL_DRUG_RELATEDDEALTHS) | Overdose data clustering & trend analysis | Python, Pandas, K-Means |
 | [💬 Influence of Technology](https://github.com/Shruthi973/INFLUENCE-OF-TECHNOLOGY) | Survey-based public opinion on technology’s impact | Python, NLP, WordCloud |
-| [📉 Why Students Drop Off](https://github.com/Shruthi973/Drop-Off-Prediction) | Predicting student attrition risk from survey data | Python, XGBoost, Logistic Regression |
+| [📉 Why Students Drop Off](https://github.com/Shruthi973/WHY-STUDENTS-DROP-OFF-) | Predicting student attrition risk from survey data | Python, XGBoost, Logistic Regression |
 | [🚕 Ride Cancellations](https://github.com/Shruthi973/RIDE-CANCELLATIONS) | Predicting ride cancellations using operational data | Python, Pandas, Matplotlib |
 | [📊 Interactive Dashboards](https://github.com/Shruthi973/Excelerate-Dashboard) | Power BI dashboards for claims, skills, and map insights | Power BI, SQL |
 
