@@ -40,10 +40,10 @@ I'm Shruthi — a data scientist with 4+ years of experience in machine learning
 
 | Project | Description | Tools |
 |--------|-------------|--------|
-| [🧠 NeuroScreen – Parkinson’s Risk Estimation App](https://github.com/Shruthi973/NeuroScreen-App) | AI-powered, self-administered screening tool that predicts motor phenotype (TD vs PIGD) using behavioral inputs; includes SHAP explainability, Streamlit UI, and HIPAA-conscious architecture | Python, Streamlit, Random Forest, SHAP, cloudpickle |
+| [ NeuroScreen – Parkinson’s Risk Estimation App](https://github.com/Shruthi973/NeuroScreen-App) | AI-powered, self-administered screening tool that predicts motor phenotype (TD vs PIGD) using behavioral inputs; includes SHAP explainability, Streamlit UI, and HIPAA-conscious architecture | Python, Streamlit, Random Forest, SHAP, cloudpickle |
 | [🧠 fNIRS-Based Brain Remodeling](https://github.com/Shruthi973/fnirs-Brain-Modelling) | Modeling brain activity differences in Parkinson’s phenotypes using HbO₂ signals | Python, MNE-NIRS, GLM, REDCap |
 | [🧪 Parkinson’s Phenotype Modeling](https://github.com/Shruthi973/Parkinsons-Phenotype-Modeling) | ML classification & regression for PD symptom severity | R, Naive Bayes, Linear Regression |
-| [💊 Accidental Drug-Related Deaths](https://github.com/Shruthi973/ACCIDENTAL_DRUG_RELATEDDEALTHS) | Overdose data clustering & trend analysis | Python, Pandas, K-Means |
+| [ Accidental Drug-Related Deaths](https://github.com/Shruthi973/ACCIDENTAL_DRUG_RELATEDDEALTHS) | Overdose data clustering & trend analysis | Python, Pandas, K-Means |
 | [💬 Influence of Technology](https://github.com/Shruthi973/INFLUENCE-OF-TECHNOLOGY) | Survey-based public opinion on technology’s impact | Python, NLP, WordCloud |
 | [📉 Why Students Drop Off](https://github.com/Shruthi973/WHY-STUDENTS-DROP-OFF-) | Predicting student attrition risk from survey data | Python, XGBoost, Logistic Regression |
 | [🚕 Ride Cancellations](https://github.com/Shruthi973/RIDE-CANCELLATIONS) | Predicting ride cancellations using operational data | Python, Pandas, Matplotlib |
