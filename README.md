@@ -14,6 +14,15 @@
 </p>
 
 ---
+## 📊 GitHub Overview
+
+- 🏢 Saint Louis University · Research Assistant  
+- 🌍 Saint Louis, MO  
+- ✉️ [Email Me](mailto:vudemshruthireddy@gmail.com)  
+- 🔗 [Portfolio Website](https://v0-open-vercel-app.vercel.app)  
+- ⭐ 30+ Stars across repositories  
+- 👥 15+ Followers  
+- 🛠️ Tools: Python · SQL · Power BI · Streamlit · SHAP · R · GCP · Snowflake  
 
 # 💼 Shruthi Reddy Vudem
 
