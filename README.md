@@ -18,7 +18,7 @@
 
 💼 **Data Scientist | ML Researcher | Analytics Enthusiast**  
 ## 🧠 About Me  
-I am a computational neuroscience & AI researcher with 4+ years of experience in **machine learning, fNIRS biosignal analysis, neurological time-series modeling, and IRB-aligned clinical research**. 
+Health Data analyst and  AI researcher with 4+ years of experience in **clinical protocol digitalization, machine learning, fNIRS biosignal analysis, neurological time-series modeling, and IRB-aligned clinical research**. 
 
 ## 📊 GitHub Overview
 
