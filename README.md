@@ -41,6 +41,7 @@ I'm Shruthi — a data scientist with 4+ years of experience in machine learning
 | Project | Description | Tools |
 |--------|-------------|--------|
 | [ NeuroScreen – Parkinson’s Risk Estimation App](https://github.com/Shruthi973/NeuroScreen-App) | AI-powered, self-administered screening tool that predicts motor phenotype (TD vs PIGD) using behavioral inputs; includes SHAP explainability, Streamlit UI, and HIPAA-conscious architecture | Python, Streamlit, Random Forest, SHAP, cloudpickle |
+| [ Interpretable Machine Learning for Early Cognitive Impairment Detection in Parkinson’s Disease](https://github.com/Shruthi973/NEUROTIME) | Interpretable AI framework that combines neuroengineering, data science and AI explainability |
 | [🧠 fNIRS-Based Brain Remodeling](https://github.com/Shruthi973/fnirs-Brain-Modelling) | Modeling brain activity differences in Parkinson’s phenotypes using HbO₂ signals | Python, MNE-NIRS, GLM, REDCap |
 | [🧪 Parkinson’s Phenotype Modeling](https://github.com/Shruthi973/Parkinsons-Phenotype-Modeling) | ML classification & regression for PD symptom severity | R, Naive Bayes, Linear Regression |
 | [ Accidental Drug-Related Deaths](https://github.com/Shruthi973/ACCIDENTAL_DRUG_RELATEDDEALTHS) | Overdose data clustering & trend analysis | Python, Pandas, K-Means |
