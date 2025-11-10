@@ -19,12 +19,20 @@
 💼 **Data Scientist | ML Researcher | Analytics Enthusiast**  
 ## 🧠 About Me  
 I am a computational neuroscience & AI researcher with 4+ years of experience in **machine learning, fNIRS biosignal analysis, neurological time-series modeling, and IRB-aligned clinical research**. 
+
 ## 📊 GitHub Overview
+
+### Computational Neuroscience • AI/ML • Biosignal Processing • Healthcare Data Science  
 
 - 🏢 Saint Louis University · Neuroscience AI/ML Reseacher   
 - ✉️ [Email Me](mailto:vudemshruthireddy@gmail.com)  
-- 🔗 [Portfolio Website](https://v0-open-vercel-app.vercel.app)  
-- ⭐ 30+ Stars across repositories   
+- 🔗 [Portfolio Website](https://v0-open-vercel-app.vercel.app) 
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/shruthi-reddy-vudem1410/  
+🔗 **GitHub:** https://github.com/Shruthi973  
+🔗 **NeuroScreen App (Live Demo):** https://neuroscreen-app-vsr-jas.streamlit.app/  
+🔗 **HCOR Newsletter Feature:** https://mailchi.mp/705b9944817f/hcor-weekly-newsletter?e=39d6afd8df 
+- ⭐ 30+ Stars across repositories  
 
 ---
 
@@ -40,19 +48,7 @@ I am a computational neuroscience & AI researcher with 4+ years of experience in
 | [💬 Influence of Technology](https://github.com/Shruthi973/INFLUENCE-OF-TECHNOLOGY) | Survey-based public opinion on technology’s impact | Python, NLP, WordCloud |
 | [📉 Why Students Drop Off](https://github.com/Shruthi973/WHY-STUDENTS-DROP-OFF-) | Predicting student attrition risk from survey data | Python, XGBoost, Logistic Regression |
 | [🚕 Ride Cancellations](https://github.com/Shruthi973/RIDE-CANCELLATIONS) | Predicting ride cancellations using operational data | Python, Pandas, Matplotlib |
-| [📊 Interactive Dashboards](https://github.com/Shruthi973/DASHBOARDS) | Power BI dashboards for claims, skills, and map insights | Power BI, SQL |
-
----
-
-
-### Computational Neuroscience • AI/ML • Biosignal Processing • Healthcare Data Science  
-
-📍 San Jose, CA (Open to Relocate)  
-📧 **vudemshruthir@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/shruthi-reddy-vudem1410/  
-🔗 **GitHub:** https://github.com/Shruthi973  
-🔗 **NeuroScreen App (Live Demo):** https://neuroscreen-app-vsr-jas.streamlit.app/  
-🔗 **HCOR Newsletter Feature:** https://mailchi.mp/705b9944817f/hcor-weekly-newsletter?e=39d6afd8df  
+| [📊 Interactive Dashboards](https://github.com/Shruthi973/DASHBOARDS) | Power BI dashboards for claims, skills, and map insights | Power BI, SQL | 
 
 ---
 My work integrates:  
