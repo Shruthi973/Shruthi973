@@ -14,25 +14,17 @@
 </p>
 
 ---
-## 📊 GitHub Overview
-
-- 🏢 Saint Louis University · Research Assistant  
-- 🌍 Saint Louis, MO  
-- ✉️ [Email Me](mailto:vudemshruthireddy@gmail.com)  
-- 🔗 [Portfolio Website](https://v0-open-vercel-app.vercel.app)  
-- ⭐ 30+ Stars across repositories  
-- 👥 15+ Followers  
-- 🛠️ Tools: Python · SQL · Power BI · Streamlit · SHAP · R · GCP · Snowflake  
-
 # 💼 Shruthi Reddy Vudem
 
 💼 **Data Scientist | ML Researcher | Analytics Enthusiast**  
-I'm Shruthi — a data scientist with 4+ years of experience in machine learning, health data analytics, and dashboard development. I build real-world solutions with impact, combining strong domain knowledge and technical skills.
+## 🧠 About Me  
+I am a computational neuroscience & AI researcher with 4+ years of experience in **machine learning, fNIRS biosignal analysis, neurological time-series modeling, and IRB-aligned clinical research**. 
+## 📊 GitHub Overview
 
-🔬 **IRB-approved Parkinson’s Disease ML research**  
-📊 Visual dashboards, clustering, and predictive modeling  
-⚙️ Python, R, SQL, Power BI, Scikit-learn, Streamlit, MNE-NIRS  
-🔎 Open to Fall/Winter 2025 internships in Data Science and Analytics
+- 🏢 Saint Louis University · Neuroscience AI/ML Reseacher   
+- ✉️ [Email Me](mailto:vudemshruthireddy@gmail.com)  
+- 🔗 [Portfolio Website](https://v0-open-vercel-app.vercel.app)  
+- ⭐ 30+ Stars across repositories   
 
 ---
 
@@ -52,19 +44,150 @@ I'm Shruthi — a data scientist with 4+ years of experience in machine learning
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shruthi973&show_icons=true&theme=default&hide_border=true" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruthi973&layout=compact&theme=default&hide_border=true" width="340"/>
-</p>
+### Computational Neuroscience • AI/ML • Biosignal Processing • Healthcare Data Science  
+
+📍 San Jose, CA (Open to Relocate)  
+📧 **vudemshruthir@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/shruthi-reddy-vudem1410/  
+🔗 **GitHub:** https://github.com/Shruthi973  
+🔗 **NeuroScreen App (Live Demo):** https://neuroscreen-app-vsr-jas.streamlit.app/  
+🔗 **HCOR Newsletter Feature:** https://mailchi.mp/705b9944817f/hcor-weekly-newsletter?e=39d6afd8df  
+
+---
+My work integrates:  
+- AI/ML pipelines for clinical prediction  
+- Dual-task fNIRS (MNE-NIRS) signal modeling  
+- Healthcare analytics and REDCap automation  
+- Explainable ML (SHAP, calibrated models)  
+- End-to-end app development (NeuroScreen)  
+
+My research has been **submitted/selected at IEEE, ML4H, AMIA, CSM, and Translational Neuroscience**, with multiple peer-reviewed publications.
 
 ---
 
-## 📫 Contact Me
+# 🚀 Featured Projects
 
-📧 **Email**: vudemshruthireddy@gmail.com  
-🔗 **LinkedIn**: [shruthireddyvudem](https://www.linkedin.com/in/shruthireddyvudem/)  
-🌐 **Portfolio**: [v0-open-vercel-app.vercel.app](https://v0-open-vercel-app.vercel.app/)
+###  1. **fNIRS-Cognify — Early Cognitive Impairment Detection (Parkinson’s)**  
+📌 Repo: https://github.com/Shruthi973/NEUROTIME  
+**Tools:** Python, MNE-NIRS, GLM, SHAP, Statsmodels  
+Hemodynamic modeling + interpretable ML pipeline for early cognitive decline detection using dual-task fNIRS and phenotype ratios.
 
-> “Data is powerful when it tells a story — I use it to drive decisions and impact.”
+---
+
+###  2. **NeuroScreen — Parkinson’s Risk Estimation App (IRB-Approved)**  
+📌 Repo: https://github.com/Shruthi973/NeuroScreen-App  
+**Tools:** Python, Streamlit, SHAP, cloudpickle  
+Self-administered risk screening app predicting TD vs PIGD with SHAP explanations.  
+**Selected:** IEEE ICHI (submitted), Translational Neuroscience (selected)
+
+---
+
+###  3. **fNIRS Brain Remodeling – Phenotype-Based Hemodynamic Modeling**  
+📌 Repo: https://github.com/Shruthi973/fnirs-Brain-Modelling  
+Models HbO₂/HbR differences between TD vs PIGD phenotypes using GLM and ROI-level features.
+
+---
+
+###  4. **Parkinson’s Phenotype Classification & Severity Regression**  
+📌 Repo: https://github.com/Shruthi973/Parkinsons-phenotype-modeling  
+Supervised ML for PD subtype classification + continuous severity ratio prediction.
+
+---
+
+###  5. **Accidental Drug-Related Deaths – Overdose Trend Analytics**  
+📌 Repo: https://github.com/Shruthi973/ACCIDENTAL_DRUG_RELATEDDEALTHS  
+Clustering, trend forecasting, and temporal patterns using public overdose data.
+
+---
+
+###  6. **Influence of Technology – NLP Study**  
+📌 Repo: https://github.com/Shruthi973/INFLUENCE-OF-TECHNOLOGY  
+Survey-based NLP analysis on technology’s psychological impact.
+
+---
+
+###  7. **Student Attrition Prediction**  
+📌 Repo: https://github.com/Shruthi973/WHY-STUDENTS-DROP-OFF-  
+Predictive modeling of student dropout risk.
+
+---
+
+###  8. **Ride Cancellation Prediction**  
+📌 Repo: https://github.com/Shruthi973/RIDE-CANCELLATIONS  
+
+---
+
+###  9. **Interactive Dashboards (Power BI)**  
+📌 Repo: https://github.com/Shruthi973/DASHBOARDS  
+Healthcare + workforce analytics dashboards.
+
+---
+
+# 📚 Research & Documentation Links
+
+📄 **Neurology Research Portfolio (PDF):**  
+https://drive.google.com/file/d/106vRFGIgHXrwcv4hV0HqMQnHLnrOjGEC/view  
+
+📄 **PD Longitudinal Modeling (CSM 2026 – Accepted):**  
+https://drive.google.com/file/d/1HN-7IKkv7eZS49bmy_jG-7x3o6OdLGiq/view  
+
+📄 **fNIRS Dual-Task Time-Series (AMIA – Selected):**  
+https://drive.google.com/file/d/1Yb2gKX6fcSe_5A0oqI9FRzIzNZ4Md0GT/view  
+
+📄 **Project Documentation:**  
+https://docs.google.com/document/d/1pmD3wk06s4oa9HSmk5vpF3P4NYfIFCF2G7nEAOVr3SA/edit?tab=t.0  
+https://docs.google.com/document/d/1UBNIuwy5vmDiwu2wjbfgeFC-Y3exw55j/edit  
+
+📄 **ResearchGate Paper:**  
+https://www.researchgate.net/publication/387414570_Management_of_Open_Apex_A_Review_of_Literature  
+
+---
+
+# 🏆 Achievements  
+- **Best Student Innovation Award**  
+- **Best Graduate Student Representative – Health Data Science (SLU)**  
+- **NeuroScreen selected for Oral + Poster Presentation, Translational Neuroscience**  
+- **5+ Peer-Reviewed Publications**  
+- **Built IRB-approved multi-dataset neuro-prediction app**
+
+---
+
+# 🎓 Certifications  
+- HIPAA  
+- CITI HSR / GCP  
+- GCP (ICH-E6)  
+- AWS – Machine Learning  
+- TensorFlow Developer Certificate  
+- DeepLearning.AI **MLOps**  
+- DeepLearning.AI **Generative AI with LLMs**  
+- edX: **Biomedical Signal Processing**  
+- SNOMED-CT Foundation  
+- Tableau Essentials  
+- SOCRA  
+- Oracle Database Explorer  
+
+---
+
+# 🌍 Memberships  
+- IEEE  
+- IEEE EMBS  
+- International Machine Learning Society  
+- AAAS  
+- BMES  
+- ACM Student Member  
+
+---
+
+# ❤️ Volunteering  
+- United Way – St. Louis Tornado Relief  
+- Campus Health-Literacy Outreach  
+
+---
+
+# 📫 Connect  
+📧 **vudemshruthir@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/shruthi-reddy-vudem1410/  
+🔗 **GitHub:** https://github.com/Shruthi973  
+🔗 **NeuroScreen Demo:** https://neuroscreen-app-vsr-jas.streamlit.app/
+
