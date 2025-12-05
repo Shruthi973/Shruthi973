@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="profile.jpg" width="180" />
-</p>
-
 <h2 align="center">Shruthi Reddy Vudem</h2>
 
 <p align="center">
