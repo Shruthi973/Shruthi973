@@ -14,11 +14,7 @@
 
 💼 **Data Scientist | ML Researcher | Analytics Enthusiast**  
 ## 🧠 About Me  
-Health Data analyst and  AI researcher with 4+ years of experience in **clinical protocol digitalization, machine learning, fNIRS biosignal analysis, neurological time-series modeling, and IRB-aligned clinical research**. 
-
-## 📊 GitHub Overview
-
-### Computational Neuroscience • AI/ML • Biosignal Processing • Healthcare Data Science  
+Health Data analyst and  Clinical Researcher with 4+ years of experience in **clinical protocol digitalization, machine learning, fNIRS biosignal analysis, neurological time-series modeling, and IRB-aligned clinical research**. 
 
 - 🏢 Saint Louis University · Neuroscience AI/ML Reseacher   
 - ✉️ [Email Me](mailto:vudemshruthireddy@gmail.com)  
@@ -29,8 +25,6 @@ Health Data analyst and  AI researcher with 4+ years of experience in **clinical
 🔗 **NeuroScreen App (Live Demo):** https://neuroscreen-app-vsr-jas.streamlit.app/  
 🔗 **HCOR Newsletter Feature:** https://mailchi.mp/705b9944817f/hcor-weekly-newsletter?e=39d6afd8df 
 - ⭐ 30+ Stars across repositories  
-
----
 
 ## 🚀 Projects
 
