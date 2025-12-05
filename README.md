@@ -50,6 +50,7 @@ Health Data analyst and  AI researcher with 4+ years of experience in **clinical
 | [📉 Why Students Drop Off](https://github.com/Shruthi973/WHY-STUDENTS-DROP-OFF-) | Predicting student attrition risk from survey data | Python, XGBoost, Logistic Regression |
 | [🚕 Ride Cancellations](https://github.com/Shruthi973/RIDE-CANCELLATIONS) | Predicting ride cancellations using operational data | Python, Pandas, Matplotlib |
 | [📊 Interactive Dashboards](https://github.com/Shruthi973/DASHBOARDS) | Power BI dashboards for claims, skills, and map insights | Power BI, SQL | 
+| [Policy Research Brief: Post-COVID Mental Health Access Gaps](https://github.com/Shruthi973/Policy-Research-ABrief-Post-COVID-Mental-Health-Access-Gaps)
 
 ---
 My work integrates:  
