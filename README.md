@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/🌐-My%20Portfolio-blue?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/shruthireddyvudem/" target="_blank">
- 
+    <img src="https://img.shields.io/badge/🌐-My%20Portfolio-blue?style=for-the-badge" />
   </a>
 </p>
 
