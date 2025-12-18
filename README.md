@@ -1,7 +1,7 @@
 <h2 align="center">Shruthi Reddy Vudem</h2>
 
 <p align="center">
-  <a href="https://v0-open-vercel-app.vercel.app/" target="_blank">
+  
     <img src="https://img.shields.io/badge/🌐-My%20Portfolio-blue?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/shruthireddyvudem/" target="_blank">
