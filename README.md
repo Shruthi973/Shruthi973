@@ -2,7 +2,7 @@
 ---
 # 💼 Shruthi Reddy Vudem
 
-💼 **Data Scientist | ML Researcher | Analytics Enthusiast**  
+💼 **Clinical Researcher | Health Data Scientist | Healthcare ML Researcher | Health Analytics Enthusiast**  
 ## 🧠 About Me  
 Health Data analyst and  Clinical Researcher with 4+ years of experience in **clinical protocol digitalization, machine learning, fNIRS biosignal analysis, neurological time-series modeling, and IRB-aligned clinical research**. 
 
