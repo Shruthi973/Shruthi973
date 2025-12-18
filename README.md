@@ -1,9 +1,3 @@
-<h2 align="center">Shruthi Reddy Vudem</h2>
-
-<p align="center">
-  
-  </a>
-</p>
 
 ---
 # 💼 Shruthi Reddy Vudem
