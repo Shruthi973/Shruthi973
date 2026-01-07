@@ -14,7 +14,6 @@ Health Data analyst and  Clinical Researcher with 4+ years of experience in **cl
 🔗 **Research Publications:** https://docs.google.com/document/d/1pmD3wk06s4oa9HSmk5vpF3P4NYfIFCF2G7nEAOVr3SA/edit?tab=t.0
 🔗 **GitHub:** https://github.com/Shruthi973  
 🔗 **NeuroScreen App (Live Demo):** https://neuroscreen-app-vsr-jas.streamlit.app/  
-🔗 **HCOR Newsletter Feature:** https://mailchi.mp/705b9944817f/hcor-weekly-newsletter?e=39d6afd8df 
 - ⭐ 30+ Stars across repositories  
 
 ## 🚀 Projects
