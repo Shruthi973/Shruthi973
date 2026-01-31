@@ -4,7 +4,7 @@
 
 💼 **Clinical Researcher | Health Data Scientist | Healthcare ML Researcher | Health Analytics Enthusiast**  
 ## 🧠 About Me  
-Health Data analyst and  Clinical Researcher with 4+ years of experience in **clinical protocol digitalization, machine learning, fNIRS biosignal analysis, neurological time-series modeling, and IRB-aligned clinical research**. 
+Health Data Scientist and  Clinical Researcher with 4+ years of experience in **clinical protocol digitalization, machine learning, fNIRS biosignal analysis, neurological time-series modeling, and IRB-aligned clinical research**. 
 
 - 🏢 Saint Louis University · Neuroscience AI/ML Reseacher   
 - ✉️ [Email Me](mailto:vudemshruthireddy@gmail.com)  
