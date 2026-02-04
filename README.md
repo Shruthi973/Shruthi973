@@ -9,8 +9,6 @@ Health Data Scientist and  Clinical Researcher with 4+ years of experience in **
 - 🏢 Saint Louis University · Neuroscience AI/ML Reseacher   
 - ✉️ [Email Me](mailto:vudemshruthireddy@gmail.com)  
 
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/shruthi-reddy-vudem1410/  
 🔗 **Research Publications:** https://docs.google.com/document/d/1pmD3wk06s4oa9HSmk5vpF3P4NYfIFCF2G7nEAOVr3SA/edit?tab=t.0
 
 🔗 **GitHub:** https://github.com/Shruthi973  
